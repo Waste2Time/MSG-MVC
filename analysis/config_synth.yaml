@@ -1,0 +1,8 @@
+seed: 42
+n_per_class: 500
+sigma: 0.7
+boundary_threshold: 0.5
+p_conflict: 0.4
+outlier_ratio: 0.06
+k_neighbors: 10
+out_dir: analysis/results/synthetic
